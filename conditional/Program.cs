@@ -150,7 +150,7 @@ class Program
         }
         else if (a == b && b > c)
         {
-            Console.WriteLine("a i b є одинаковими i довшими за сторону c");
+            Console.WriteLine("a i b одинаковi i довшиi за сторону c");
         }
         else if (a == c && c > b)
         {
